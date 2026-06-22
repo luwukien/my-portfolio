@@ -64,7 +64,7 @@ export function Navbar() {
               GitHub
             </a>
             <motion.a
-              href="mailto:contact@luwukien.dev"
+              href="#contact"
               whileHover={{ scale: 1.02 }}
               whileTap={{ scale: 0.98 }}
               className="bg-foreground text-background px-4 py-2 text-xs font-mono tracking-widest uppercase inline-block"

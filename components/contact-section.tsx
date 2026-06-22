@@ -150,9 +150,9 @@ export function ContactSection() {
 {`{
   "name": "Chi Kien Luu",
   "alias": "luwukien",
-  "school": "FPT University (Year 3)",
+  "school": "FPT University (Year 2)",
   "role": "AI Engineering Intern",
-  "skills": ["Python", "PyTorch", "FastAPI"]
+  "motto": "Hard work beats talent"
 }`}
               </pre>
               <p className="text-[#ea580c] animate-blink font-bold mt-1">_</p>

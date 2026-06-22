@@ -25,8 +25,7 @@ export function Footer() {
         <div className="flex items-center gap-6">
           {[
             { name: "GitHub", href: "https://github.com/luwukien" },
-            { name: "LinkedIn", href: "https://linkedin.com/in/luwukien" },
-            { name: "Email", href: "mailto:contact@luwukien.dev" }
+            { name: "LinkedIn", href: "https://www.linkedin.com/in/chikienluu/" },
           ].map((link, i) => (
             <motion.a
               key={link.name}
